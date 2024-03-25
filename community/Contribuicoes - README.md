@@ -1,7 +1,7 @@
 # Contribuições
 
-Contribua no diretório "Community", criando um Profile README contendo informações sobre você que deseje compartilhar com a comunidade.
-Para isso, você pode inserir: informações, links, passo a passo para inicialização, artigos, livros,etc ..
+Contribua no diretório "Community", criando conteúdo contendo informações sobre você que deseje compartilhar com a comunidade.
+Para isso, você pode inserir: informações, links, passo a passo para inicialização, artigos, livros, etc ..
 Além disso, você pode inserir também projetos que criou, colaborou ou que deseje que outras pessoas colaborem.
 Use sua criatividade e conhecimento, estamos em constante evolução 😊💙.
 
