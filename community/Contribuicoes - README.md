@@ -1,11 +1,12 @@
 # Contribuições
 
 Contribua no diretório "Community", criando um Profile README contendo informações sobre você que deseje compartilhar com a comunidade.
-Para isso, você pode inserir: cards com suas estatísticas no GitHub e projetos que criou, colaborou ou que deseje que outras pessoas colaborem.
-Além disso, você pode inserir também links para seus desafios de projeto e artigos.
-Inspire-se consultando os exemplos na pasta community, confira alguns utilitários na pasta utils e use sua criatividade para criar o seu 😊💙.
+Para isso, você pode inserir: informações, links, passo a passo para inicialização, artigos, livros,etc ..
+Além disso, você pode inserir também projetos que criou, colaborou ou que deseje que outras pessoas colaborem.
+Use sua criatividade e conhecimento, estamos em constante evolução 😊💙.
 
-Instruções (PT/BR):
+
+Instruções (PT/BR) para sua contribuição:
 
 - Faça um Fork deste repositório;
 
