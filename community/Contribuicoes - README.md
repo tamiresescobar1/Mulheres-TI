@@ -11,7 +11,7 @@ Faça um Fork deste repositório;
 
 ![fork github](https://github.com/tamiresescobar1/Mulheres-TI/assets/124881009/1cf252ec-1ae8-4538-b01c-58126b11988d)
 
-Não precisa alterar o nome ou a descrição, certifique-se de deixar seleciona a cópia da branch e aperte create fork!
+Não precisa alterar o nome ou a descrição, certifique-se de deixar selecionado a cópia da branch e aperte create fork!
 
 ![fork github2](https://github.com/tamiresescobar1/Mulheres-TI/assets/124881009/7db681bc-8b21-419d-8fc1-9ee7ed1d65f1)
 
@@ -23,7 +23,7 @@ O próximo passo é criar o clone na nossa máquina, para que possa estar fazend
 
 # Clonar localmente:
 
-![fork github4](https://github.com/tamiresescobar1/Mulheres-TI/assets/124881009/248bdbf9-58f2-48dc-a312-7adb306b5d28)
+![fork github4](https://github.com/tamiresescobar1/Mulheres-TI/assets/124881009/2319a21b-1fe8-4882-a67a-2561d0b772d6)
 
 - Após realizar a cópia que pode ser tanto por https ou ssh, no exemplo foi por https. Voce irá abrir o GIT Bash e adicionar o `git clone + https://github.com/SEU_USERNAME/mulheres-ti`;
 
