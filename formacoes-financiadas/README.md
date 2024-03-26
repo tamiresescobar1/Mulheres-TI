@@ -13,8 +13,13 @@
 ## Auxílios
   Nas formações financiadas pelo IEFP em Portugal, os participantes podem ter acesso a diversos tipos de apoios e auxílios, dependendo da sua situação específica e do tipo de curso em que estão inscritos. Alguns dos auxílios mais comuns incluem:
   - **Subsídio de refeição:** Em alguns casos, os participantes podem receber um subsídio diário para ajudar a cobrir os custos com alimentação durante o período da formação.
-  - **Subsídio de transporte:** Para participantes que necessitam de se deslocar para frequentar as formações, pode ser disponibilizado um subsídio para ajudar a cobrir os custos de transporte, como passagens de ônibus, metrô ou gasolina.
+  - **Despesa ou Subsídio de transporte:** Para participantes que necessitam de se deslocar para frequentar as formações, pode ser disponibilizado um subsídio para ajudar a cobrir os custos de transporte, como passagens de ônibus, metrô ou gasolina.
+    - **Despesa** – Atribuído a todos os formandos que solicitem o reembolsa das despesas de transporte em transportes públicos coletivos.
+    - **Subsídio** – Atribuído a título excecional, quando não exista transporte público ou não seja possível a sua utilização.
   - **Bolsa de formação:** Em certos casos, especialmente em formações mais longas e intensivas, os participantes podem ter direito a uma bolsa de formação, que é um apoio financeiro adicional para ajudar a cobrir despesas durante o período de estudo, como alojamento ou outros custos pessoais.
+  - **Subsídio de Acolhimento**: Apoio atribuído a formandos com dependentes a cargo ( menores até aos 12 anos), quando estes comprovem necessitar de os confiar a terceiros por motivos de frequência da formação.
+  
+    ATENÇÃO: Não são comparticipadas situações de continuidade.
 
   Os candidatos devem verificar os critérios de elegibilidade específicos para cada programa de formação e procurar informações junto ao IEFP ou às entidades responsáveis pela gestão dos cursos.
 
