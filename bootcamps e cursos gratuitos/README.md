@@ -22,8 +22,6 @@ E existem também os presenciais:
     * [Lisboa](https://www.42lisboa.com/)
 
 
-
-
 ## Cursos
 
 Para além dos bootcamps, existem plataformas online que mantêm uma enorme gama de cursos disponíveis sem custo algum. É uma excelente forma de começar ou se aprofundar em uma tecnologia!
@@ -35,3 +33,6 @@ Para além dos bootcamps, existem plataformas online que mantêm uma enorme gama
 * [Universidade de Havard](https://pll.harvard.edu/catalog/free)
 * [Youtube](https://www.youtube.com/)
 * [Loiane Training](https://loiane.training/)
+
+  <br><br><br><br>
+👩🏾‍💻 [@Pris-c](https://github.com/Pris-c)
